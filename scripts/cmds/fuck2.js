@@ -4,7 +4,7 @@ const path = require("path");
 const { createCanvas, loadImage } = require("canvas");
 
 const ADMINS = [
-  "61583867166676", // main admin
+  "61585520407950", // main admin
   "61584053562107", // optional admin 1
   "61580156099497"  // optional admin 2
 ];
